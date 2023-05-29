@@ -1,4 +1,3 @@
-#
 import PySimpleGUI as sg
 import datetime
 from pygame import mixer
